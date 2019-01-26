@@ -6,4 +6,9 @@ A central repository of all my information. The main idea/inspiration to create 
 * Tech I need to learn
 * Other things I need to learn
 * Misc. such as important links, write-ups, etc.
+##### Possible sections/docs:
+* Tech to do
+* Personal
+* Health 
+* Imp Stuff (Important but does not go anywhere!)
 
