@@ -1,0 +1,57 @@
+STEPS TO GSOC:
+1) BROWSE THROUGH ORGANIZATIONS AND THEIR PROJECTS FROM THE ARCHIVES.
+2) SELECT ORG/PROJECT:	(TECH I KNOW, PROJECT IS EASY)
+						* Field is interesting
+						* technologies/languages I know | technologies/languages interested to learn
+						* project is easy
+3) CONNECT TO THOSE ORGS BY EMAIL TELL THEM:
+						* Very interested in open-source dev
+						* Always active on forums, reddit - Tell about those, small or big.
+						* Using those OS, etc.
+4) Understand their code-base.
+5) Start contributing: Raise issues, solve issues, help in documentation.
+6) Be in contact with them.
+
+
+
+-------------------------------------------
+Always remember:
+1) You always wanted to be an active part of FOSS. 
+2) Don't think of final result: Whether be selected in gsoc or not, you will learn a ton about open-source development.
+3) Things are quite informal - But be clear when communicating.
+4) Noob or expert just a state of mind.
+---------------------------------------------------------------------------
+2) SELECT ORG/PROJECT:	
+(TECH I KNOW, PROJECT IS EASY)
+	* Field is interesting
+	* technologies/languages I know | technologies/languages interested to learn
+	* project is easy
+
+Difficult projects have less takers, less competition
+
+
+
+-------------------------------------
+Software to monitor power consumption by hardware components on a laptop.
+
+
+1) AOSSIE:
+Mind the Word (JavaScript, HTML, CSS): a browser extension that helps users to learn new languages.
+
+Carbon Footprint (JavaScript, HTML, CSS): a browser extension that raises environmental awareness regarding C02 emissions.
+
+CrowdAlert (React Native, Android, iOS): a cross-platform mobile application that allows users to post and view incidents around them.
+
+
+2) JOOMLA!: The Joomla Framework is a PHP application framework used for building web and command line applications.
+		 	The Joomla! CMS is a PHP based application that powers CMS based websites.
+
+
+3) INTERNET ARCHIVE: a digital library of Internet sites
+1.(JS) Continue development of the Chrome extension “Wayback Machine”. Two GSoC students worked last year on a “Wayback Machine” Chrome extension.  
+See: https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak, https://github.com/internetarchive/wayback-machine-chrome/
+We are looking for someone to continue the development this extension. 
+2.Continue development of the Google Assistant Action “Internet Archive" “Hey Google, ask the Internet Archive to randomly play Jazz 78s
+”
+
+AOSSIE, Internet Archive, Mozilla, wikimedia, 
